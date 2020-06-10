@@ -1,6 +1,36 @@
+body {
+  background-color: violet;
+}
+
 .center-text h2 {
   text-align: center;
 }
+
+.box {
+  margin: 12px;
+  border: 2px solid orangered;
+  padding: 4px;
+  background-color: yellowgreen;
+}
+
+ul li {
+  list-style-type: disc;
+  padding: 0 0 5px 15px;
+}
+
+ol {
+  margin: auto;
+  max-width: 500px;
+  text-overflow: wrap;
+  list-style-position: inside;
+}
+
+/* ul {
+  margin: auto;
+  position: relative;
+  text-align: left;
+  list-style-position: inside;
+} */
 
 .center-text ol {
   text-align: center;
@@ -18,5 +48,5 @@
 }
 
 #heatstroke {
-  color: orangered;
+  color: crimson;
 }
