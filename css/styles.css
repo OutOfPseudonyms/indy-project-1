@@ -1,28 +1,20 @@
 body {
-  background-color: violet;
-}
-
-.center-text h2 {
-  text-align: center;
+  background-color: rgb(146, 127, 231);
 }
 
 .box {
   margin: 12px;
   border: 2px solid orangered;
-  padding: 4px;
+  padding: 15px;
   background-color: yellowgreen;
 }
 
-ul li {
-  list-style-type: disc;
-  padding: 0 0 5px 15px;
+.center {
+  text-align: center;
 }
 
-ol {
-  margin: auto;
-  max-width: 500px;
-  text-overflow: wrap;
-  list-style-position: inside;
+.center-text h2 {
+  text-align: center;
 }
 
 .center-text ol {
@@ -37,9 +29,27 @@ ol {
 }
 
 .float {
-  text-align: center;
+  margin-top: 50px;
+  text-align: left;
+  color: white;
+}
+
+.float img {
+  float: left;
 }
 
 #heatstroke {
-  color: crimson;
+  color: orange;
+}
+
+ol {
+  margin: auto;
+  max-width: 500px;
+  text-overflow: wrap;
+  list-style-position: inside;
+}
+
+ul li {
+  list-style-type: disc;
+  padding: 0 0 5px 15px;
 }
