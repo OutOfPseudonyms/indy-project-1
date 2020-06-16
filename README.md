@@ -15,6 +15,7 @@ _This is an independent code review using HTML, CSS and Bootstrap. I was asked t
 3. Open Downloads folder and extract the project.
 4. Navigate to project folder and open the HTML file in your preferred web browser.
 
+If you would like to see a working version of this, click [here](https://outofpseudonyms.github.io/indy-project-1).
 ## Known Bugs
 
 There are no known bugs issues at this time.
