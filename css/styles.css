@@ -49,6 +49,10 @@ ol {
   list-style-position: inside;
 }
 
+.page {
+  margin-bottom: 10px;
+}
+
 ul li {
   list-style-type: disc;
   padding: 0 0 5px 15px;
